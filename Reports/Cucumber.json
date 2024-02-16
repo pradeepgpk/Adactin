@@ -1,0 +1,469 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 11,
+        "name": "Check The Login Functionality",
+        "description": "",
+        "id": "to-test-the-adactin-hotal-booking-application;check-the-login-functionality;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1835495000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "launch The Adactin Hotal Booking Application Url",
+            "match": {
+              "location": "StepDefinition.launch_The_Adactin_Hotal_Booking_Application_Url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 122018000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter The Username \"Dinesh1993\"In The Username Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Dinesh1993",
+                  "offset": 25
+                }
+              ],
+              "location": "StepDefinition.user_Enter_The_Username_In_The_Username_Field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 86673700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter The password \"811BWB\" In The Password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "811BWB",
+                  "offset": 25
+                }
+              ],
+              "location": "StepDefinition.user_Enter_The_password_In_The_Password_Field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 358442400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Click The Loginbutton and To Check The Search Hotal Page",
+            "match": {
+              "location": "StepDefinition.user_Click_The_Loginbutton_and_To_Check_The_Search_Hotal_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 12,
+        "name": "Check The Login Functionality",
+        "description": "",
+        "id": "to-test-the-adactin-hotal-booking-application;check-the-login-functionality;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 371724100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "launch The Adactin Hotal Booking Application Url",
+            "match": {
+              "location": "StepDefinition.launch_The_Adactin_Hotal_Booking_Application_Url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 73214800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter The Username \"pradeep\"In The Username Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "pradeep",
+                  "offset": 25
+                }
+              ],
+              "location": "StepDefinition.user_Enter_The_Username_In_The_Username_Field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 77870000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter The password \"3rwr3w\" In The Password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3rwr3w",
+                  "offset": 25
+                }
+              ],
+              "location": "StepDefinition.user_Enter_The_password_In_The_Password_Field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 253258500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Click The Loginbutton and To Check The Search Hotal Page",
+            "match": {
+              "location": "StepDefinition.user_Click_The_Loginbutton_and_To_Check_The_Search_Hotal_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Check The Login Functionality",
+        "description": "",
+        "id": "to-test-the-adactin-hotal-booking-application;check-the-login-functionality;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 228155000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "launch The Adactin Hotal Booking Application Url",
+            "match": {
+              "location": "StepDefinition.launch_The_Adactin_Hotal_Booking_Application_Url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 78548600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter The Username \"Dinesh1993\"In The Username Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Dinesh1993",
+                  "offset": 25
+                }
+              ],
+              "location": "StepDefinition.user_Enter_The_Username_In_The_Username_Field(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 69549500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter The password \"811BWB\" In The Password Field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "811BWB",
+                  "offset": 25
+                }
+              ],
+              "location": "StepDefinition.user_Enter_The_password_In_The_Password_Field(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 399714100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Click The Loginbutton and To Check The Search Hotal Page",
+            "match": {
+              "location": "StepDefinition.user_Click_The_Loginbutton_and_To_Check_The_Search_Hotal_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "TO Check The Search Hotal Page",
+        "description": "",
+        "id": "to-test-the-adactin-hotal-booking-application;to-check-the-search-hotal-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 16,
+            "name": "select The Room Location",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 17,
+            "name": "select The Hotel Name",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 18,
+            "name": "slect The Room Type",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 19,
+            "name": "select Number Of Rooms",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 20,
+            "name": "enter The Check In Date",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 21,
+            "name": "enter The Check Out Date",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 22,
+            "name": "select Adults Per Room",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 23,
+            "name": "select Children Per Room",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 24,
+            "name": "user Click The Searchbutton and To Check The Select Hotal Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "To Check The Select Hotel Page Functionality",
+        "description": "",
+        "id": "to-test-the-adactin-hotal-booking-application;to-check-the-select-hotel-page-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 28,
+            "name": "user Should Click The Hotel Page",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 29,
+            "name": "user Should Click The  Continue button",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "name": "To Check The Booking Page",
+        "description": "",
+        "id": "to-test-the-adactin-hotal-booking-application;to-check-the-booking-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 33,
+            "name": "user Should Insert The First Name",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 34,
+            "name": "user Should Insert The Last Name",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 35,
+            "name": "user Should Insert The Billing Address",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 36,
+            "name": "user Should Insert The Credit Card Number",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 37,
+            "name": "user Should Select The Credit Card Type",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 38,
+            "name": "user Should Select The Expiry Date Month",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 39,
+            "name": "user Should Select The Expiry Date Year",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 40,
+            "name": "user Should Insert The CVV Number",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 41,
+            "name": "user Should Click The BookNow button",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 44,
+        "name": "To Check The Logout Page",
+        "description": "",
+        "id": "to-test-the-adactin-hotal-booking-application;to-check-the-logout-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 46,
+            "name": "user Should Logout",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Test The Adactin Hotal Booking Application",
+    "description": "",
+    "id": "to-test-the-adactin-hotal-booking-application",
+    "keyword": "Feature",
+    "uri": "ada.feature"
+  }
+]
